@@ -1,2 +1,2 @@
-# Apache-Pig-Fonksiyonlar
-Udemy Big Data Eğitim Seti için hazırlanan Apache Pig Fonksiyon kod ve dataset'leri
+# Apache-Pig-Operatorler
+Udemy Big Data Eğitim Seti için hazırlanan Apache Pig Operator kod ve dataset'leri
